@@ -25,6 +25,7 @@
 
 <p align="center"> 
   Contador de visitas
-  <br>
+  </br>
+  </br>
   <img src="https://profile-counter.glitch.me/Vicjun22/count.svg" />
 </p>
