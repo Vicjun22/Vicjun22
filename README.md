@@ -22,3 +22,9 @@
 <br />
 
 ![Snake animation](https://github.com/Vicjun22/Vicjun22/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> 
+  Contador de visitas
+  <br>
+  <img src="https://profile-counter.glitch.me/Vicjun22/count.svg" />
+</p>
