@@ -31,12 +31,12 @@
 
 <br><br>
 
-- 👋 Send me a message in:
+- 👋 Visit and send me a message in:
 <div>
   <a href="https://www.linkedin.com/in/victor-elias-014232230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkdIn" target="_blank">
   </a>
-  <a href="mailto:vicjun22@gmail.com target="_blank">
+  <a href="mailto:vicjun22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
   </a>
   <a href="https://www.instagram.com/vicjun22/" target="_blank">
