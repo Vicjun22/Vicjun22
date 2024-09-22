@@ -7,15 +7,15 @@
 ![Stack_Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-055FB8?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/21474556/victor-elias-ross-j%c3%banior?tab=profile)
 <img src="https://komarev.com/ghpvc/?username=Vicjun22&color=055FB8" alt="Profile views" />
 
-<div style="width: 100%; display: flex; justify-content: space-between; gap: 20px;">
-  <div style="width: 60%; text-align: justify;">
+<div style="width: 100%; display: flex; justify-content: space-between; gap: 50px;">
+  <div style="text-align: justify;">
     <p><strong>en</strong></p>
     <p>My name is Victor Elias and I’m from Brazil (🇧🇷). I’ve been working as a Back-End Developer since 2022. Currently, I work as a Back-End Developer using Java, but I have also worked as a Front-End Developer using Angular.</p>
     <hr>
     <p><strong>pt-BR</strong></p>
     <p>Meu nome é Victor Elias e sou do Brasil (🇧🇷). Venho trabalhando como desenvolvedor Back-End desde 2022. Atualmente, trabalho como desenvolvedor Back-End usando Java, mas também já trabalhei como desenvolvedor Front-End usando Angular.</p>
   </div>
-  <img src=".github/programming.png" alt="Programming Image" style="width: 30%;">
+  <img src=".github/programming.png" alt="Programming Image" style="width: 300px; height: 200px">
 </div>
 
 <br>
