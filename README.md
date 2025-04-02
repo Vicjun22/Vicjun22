@@ -36,6 +36,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
+<br>
+
+<div align="left">
+  <img width="auto" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicjun22&layout=compact&hide_border=true&title_color=055FB8&text_color=ffffff&bg_color=0d1117" />
+</div>
+
 ## My Main Projects | Meus Principais Projetos 💼
 
 ### 🔷 [calculadora-renda-fixa_spring-boot](https://github.com/Vicjun22/calculadora-renda-fixa_spring-boot)
